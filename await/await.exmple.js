@@ -1,9 +1,4 @@
-/**
- * 困惑: 使用await查询数据时，spinner 如何设置？ 是否是等待完成后才会执行
- * 结论: await语句后面的语句会等待执行后继续执行
- * 困惑2: 和调用async函数统计的语句是否会被执行
- * 结论2 : async函数后面的语句会正常执行，直到await返回结果
- */
+
 
 function returnAfterDelay() {
     return new Promise((resolve) => {
