@@ -10,3 +10,4 @@
 5. [x]curring 
 6. [x]正则断言
 7. [x]vue 对import文件的影响(错误代理？)
+8. [√] [await函数执行顺序](./await)
