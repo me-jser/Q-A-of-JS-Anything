@@ -7,4 +7,5 @@ let obj = {
     test:1
 }
 foo::obj
+
 foo()
